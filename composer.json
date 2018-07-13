@@ -1,7 +1,7 @@
 {
     "name": "elixir/simplesamlphp-module-elixir",
     "description": "A SimpleSAMLphp module providing template for DiscoPower and user-facing parts of the SSP for ELIXIR",
-    "version": "1.0.0-rc",
+    "version": "1.1.0-rc",
     "type": "simplesamlphp-module",
     "require": {
         "simplesamlphp/composer-module-installer": "~1.0"
